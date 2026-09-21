@@ -1,7 +1,8 @@
 <p align="center">
   <img src="assets/catshark_workshop_logo.png" alt="Catshark Museomics Workshop logo" width="360">
 </p>
-### AI generated image ;) 
+'\n*Workshop logo generated with AI (OpenAI).*'
+
 
 # Catshark Museomics Workshop
 ## From historical museum DNA to a COI sequence and phylogenetic placement
