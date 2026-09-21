@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/catshark_workshop_logo.png" alt="Catshark Museomics Workshop logo" width="360">
 </p>
-*Workshop logo generated with AI (OpenAI).*
+<p align="center"><em>Workshop logo generated with AI (OpenAI).</em></p>
 
 
 # Catshark Museomics Workshop
